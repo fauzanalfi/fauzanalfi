@@ -1,4 +1,8 @@
+<!--
 ### Hi there 👋
+-->
+## Hi there 👋. It's [@fauzanalfi](https://www.instagram.com/fauzanalfi).
+Hello everyone. I'm Fauzan - one of lecturer in [Architecture Program](http://www.instagram.com/architecture.itb), [School of Architecture, Planning, and Policy Development](https://www.instagram.com/sappk.itb) of [Institut Teknologi Bandung](https://www.itb.ac.id) and also a Ph.D. candidate from [Shibaura Institute of Technology](https://shibaura-it.ac.jp]. And also, I am a [Mozillian](https://community.mozilla.org/people/fauzanalfi/).
 
 <!--
 **fauzanalfi/fauzanalfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
